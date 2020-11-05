@@ -54,6 +54,7 @@ notifications:
 branches:
   only:
     - master
+    - ppc64le
 
 addons:
   apt:
